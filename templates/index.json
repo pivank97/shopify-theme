@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "{{ shop.brand.cover_image }}",
+        "image": "shopify:\/\/shop_images\/panda2.jpg",
         "image_overlay_opacity": 40,
         "image_height": "large",
         "adapt_height_first_image": false,
@@ -111,20 +111,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "bestsellers"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "pandoo-oversized-t-shirt",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "pandoo-brand"
           }
         }
       },
